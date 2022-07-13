@@ -5,7 +5,7 @@ html,
         }
 
         body {
-            font-family: 'Open Sans', 'Helvetica Neue', 'Hiragino Sans GB', 'LiHei Pro', Arial, sans-serif;
+            font-family: 'Tahoma';
             color: #333;
         }
 
@@ -42,24 +42,30 @@ html,
         }
 
         h1 {
-            font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+            font-family: "Georgia", Times, serif;
             font-size: 20px;
             letter-spacing: 2px;
             margin: 12px 0;
             left: 4px;
-            color:#AD7655;
+            color: white;
+            background-color: #AD7655;
+            border-radius: 30px;
+            padding-top: 5px;
+            padding-bottom: 5px;
         }
 
         h2 {
-            color: #999;
             font-weight: normal;
-            font-size: 12px;
+            font-size: 14px;
             letter-spacing: 1px;
             margin-bottom: 30px;
             left: 3px;
+            font-family: 'Tahoma';
+            color: #999;
         }
         h3 {
-            color: #AD7655;
+            color: white;
+            position: relative;
         }
 
         hr {
@@ -80,7 +86,7 @@ html,
         }
 
         #profile span {
-            color: #999;
+            color: white;
             font-size: 12px;
         }
 
@@ -108,6 +114,7 @@ html,
         }
 
         #profile h3 {
+            font-family: "Georgia", Times, serif;
             color: #AD7655;
-            font-size: 15px;
+            font-size: 18px;
         }
